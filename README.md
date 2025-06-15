@@ -2,7 +2,8 @@
 Web para un API
 
 
-inmobiliaria-profesional/  
+Inmobiliaria-Profesional/
+
 ├── index.html                      # Página de Inicio  
 ├── quienes-somos.html              # Quiénes Somos  
 ├── servicios.html                  # Servicios (Ventas, Tasaciones, Arquitectura)  
